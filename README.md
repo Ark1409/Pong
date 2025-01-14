@@ -6,6 +6,6 @@ A (legacy) pong remake written in Java
 </p>
 
 (Old) Planned features:
-   - Online/Device play
+   - Online/Cross device play
    - More intelligent CPU play
    - Music?
